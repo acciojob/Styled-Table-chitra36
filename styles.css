@@ -1,1 +1,19 @@
 /* your code */
+ .table{
+               margin-left: 200px;
+               height: 200px;
+              width:70%;
+             
+              }
+              .row{
+                  /* background-color: lightgreen; */
+                  background-color: #0a0a0a;
+                  color: #f2f2f2;
+                 
+              }
+              *:hover.box{
+                  background-color:  #ddd;
+              }
+              .box{
+                  text-align: center;
+              }
